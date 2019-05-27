@@ -1,2 +1,2 @@
 FROM gcr.io/heptio-images/eventrouter:latest
-MAINTAINER chengang <aguncn@163.com>
+MAINTAINER zuoguochen <zuogc@hua-cloud.com.cn>
